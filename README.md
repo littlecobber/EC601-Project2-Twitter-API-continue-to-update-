@@ -1,4 +1,4 @@
-# EC601-Project2-Twitter-API-continue-to-update-
+# EC601-Project2-Twitter-API-and Google API continue-to-update-
 This is for EC601 class
 # These three Twitter APIs are tested for simple application using API to extract information
 ## The first one is to explore Osama's reply in his twitter
