@@ -1,7 +1,7 @@
 # EC601 Project2 Twitter API and Google API continue-to-update
 This is for EC601 class
 # User story:
-* This twitter API was for people who want to investigate their interested targets' normal data.(Through Text(Twitter API) and vision(Google API))
+* This API product was for people who want to investigate their interested targets' normal data.(Through Text(Twitter API) and vision(Google API))
 * It is also for those individual service network to better collect data for oriented products.
 * It can be used to anlalyze how popular the target is and do things depending on followers data.
 especially for those commercial or advertise companies.
