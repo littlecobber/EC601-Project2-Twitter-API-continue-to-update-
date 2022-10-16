@@ -1,5 +1,6 @@
 from google.cloud import vision_v1
 
+### this vision function would feed back outcome to gs(google store), afraid to cost money on credict card so just build demo and test
 def sample_batch_annotate_files(
     storage_uri="gs://cloud-samples-data/vision/document_understanding/kafka.pdf",
 ):
